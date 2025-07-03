@@ -12,8 +12,9 @@
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
 cd S2-1
 ```
-2. Activa un entorno virtual (Opcional)
+2. Crear y activar un entorno virtual (*Opcional*)
 ```bash
+python -m venv env
 .\env\Scripts\activate
 ```
 3. Instala las dependencias
