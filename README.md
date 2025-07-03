@@ -1,4 +1,4 @@
-# 🖥️ Estructuras de Control Selectivas
+# 🔄 Estructuras de Control Selectivas
 ¡Ahora que ya conoces la teoría, es momento de poner en práctica lo aprendido! 🚀 Durante esta etapa, nos enfocaremos en resolver ejercicios para fortalecer nuestras habilidades. ¡A dar lo mejor de ti! 💪
 
 ### 📜 Tabla de contenido
