@@ -7,21 +7,28 @@
 3. [Implementación](#%EF%B8%8F-implementación)
 
 ### 🖥️ Implementación
-1. Clona tu repositorio
+## 1. Clonar el repositorio
+Clona el repositorio en tu máquina local:
 ```bash
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
 cd S2-1
 ```
-2. Crear y activar un entorno virtual (*Opcional*)
+
+2. Crear y Activar un Entorno Virtual (Opcional, pero Recomendado)
+Es recomendable crear un entorno virtual para gestionar las dependencias de forma aislada.
 ```bash
 python -m venv env
 .\env\Scripts\activate
 ```
-3. Instala las dependencias
+
+3. Instalar las Dependencias del Proyecto
+Con el entorno virtual activado, instala las dependencias necesarias:
 ```python
 pip install -r requirements.txt
 ```
-4. Guarda tu cambios
+
+4. Guardar y Subir tus Cambios al Repositorio
+Después de hacer modificaciones, guarda y sube tus cambios al repositorio con los siguientes comandos:
 ```bash
 git add .
 git commit -m "<titulo>"
