@@ -7,8 +7,15 @@
 3. [Implementación](#%EF%B8%8F-implementación)
 
 ### 🖥️ Implementación
-Para ejecutar este proyecto en tu máquina local, clona el repositorio.
+1. Clona tu repositorio
 ```bash
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
 cd S2-1
+start .
+```
+2. Guarda tu cambios
+```bash
+git add .
+git commit -m "<titulo>"
+git push origin main
 ```
