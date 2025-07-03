@@ -7,7 +7,7 @@
 3. [Implementación](#%EF%B8%8F-implementación)
 
 ### 🖥️ Implementación
-## 1. Clonar el repositorio
+1. Clonar el repositorio
 Clona el repositorio en tu máquina local:
 ```bash
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
