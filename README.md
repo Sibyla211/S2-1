@@ -20,7 +20,7 @@ cd S2-1
 ```python
 pip install -r requirements.txt
 ```
-3. Guarda tu cambios
+4. Guarda tu cambios
 ```bash
 git add .
 git commit -m "<titulo>"
