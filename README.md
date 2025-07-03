@@ -16,6 +16,10 @@ cd S2-1
 ```bash
 .\env\Scripts\activate
 ```
+3. Instala las dependencias
+```python
+pip install -r requirements.txt
+```
 3. Guarda tu cambios
 ```bash
 git add .
