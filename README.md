@@ -11,9 +11,12 @@
 ```bash
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
 cd S2-1
-start .
 ```
-2. Guarda tu cambios
+2. Activa un entorno virtual (Opcional)
+```bash
+.\env\Scripts\activate
+```
+3. Guarda tu cambios
 ```bash
 git add .
 git commit -m "<titulo>"
