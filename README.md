@@ -1,5 +1,5 @@
 # 🖥️ Estructuras de Control Selectivas
-Ahora que ya conocemos la teoría, comenzaremos a poner en práctica lo aprendido. En esta etapa nos enfocaremos en resolver ejercicios 🚀. ¡A dar lo mejor de ti! 💪
+¡Ahora que ya conoces la teoría, es momento de poner en práctica lo aprendido! 🚀 Durante esta etapa, nos enfocaremos en resolver ejercicios para fortalecer nuestras habilidades. ¡A dar lo mejor de ti! 💪
 
 ### 📜 Tabla de contenido
 1. [Ejercicios](https://github.com/DaliaSilvana-Python1/S2-1/wiki/%F0%9F%93%9D-Ejercicicios)
@@ -7,7 +7,7 @@ Ahora que ya conocemos la teoría, comenzaremos a poner en práctica lo aprendid
 3. [Implementación](#%EF%B8%8F-implementación)
 
 ### 🖥️ Implementación
-Para ejecutar este proyecto en tu máquina local, clona el repositorio y ejecuta el archivo `main.cpp`.
+Para ejecutar este proyecto en tu máquina local, clona el repositorio.
 ```bash
 git clone https://github.com/DaliaSilvana-Python1/S2-1.git
 cd S2-1
