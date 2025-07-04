@@ -9,7 +9,7 @@
 ### 🖥️ Implementación
 1. Clona el repositorio en tu máquina local:
 ```bash
-git clone https://github.com/DaliaSilvana-Python1/S2-1.git
+git clone https://github.com/NS-Python1/S2-1.git
 cd S2-1
 ```
 
